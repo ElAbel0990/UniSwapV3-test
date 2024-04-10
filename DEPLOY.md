@@ -1,0 +1,1 @@
+forge script script/TokenV3.s.sol:TokenV3Deploy --broadcast --rpc-url botanix_testnet_rpc -vvvvv
